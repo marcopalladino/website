@@ -648,6 +648,10 @@ img {
     background: var(--blue-xlight);
 }
 
+.email-icon {
+    background: #eef2ff;
+}
+
 .wa-icon {
     background: var(--wa-green);
 }
